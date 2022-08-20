@@ -1,0 +1,38 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wasfa-staging-192439-authRole",
+      "UnauthRoleArn": "arn:aws:iam::142432550797:role/amplify-wasfa-staging-192439-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::142432550797:role/amplify-wasfa-staging-192439-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-wasfa-staging-192439-deployment",
+      "UnauthRoleName": "amplify-wasfa-staging-192439-unauthRole",
+      "StackName": "amplify-wasfa-staging-192439",
+      "StackId": "arn:aws:cloudformation:us-east-1:142432550797:stack/amplify-wasfa-staging-192439/6742a8b0-1f2b-11ed-802c-0a8764e64701",
+      "AmplifyAppId": "d8hfe2j81rq2p"
+    },
+    "categories": {
+      "auth": {
+        "Wasfa": {}
+      }
+    }
+  },
+  "wasfa": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wasfa-wasfa-231100-authRole",
+      "UnauthRoleArn": "arn:aws:iam::142432550797:role/amplify-wasfa-wasfa-231100-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::142432550797:role/amplify-wasfa-wasfa-231100-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-wasfa-wasfa-231100-deployment",
+      "UnauthRoleName": "amplify-wasfa-wasfa-231100-unauthRole",
+      "StackName": "amplify-wasfa-wasfa-231100",
+      "StackId": "arn:aws:cloudformation:us-east-1:142432550797:stack/amplify-wasfa-wasfa-231100/8e1233c0-1f6c-11ed-b905-0a60fad74b9d",
+      "AmplifyAppId": "d8hfe2j81rq2p"
+    },
+    "categories": {
+      "auth": {
+        "Wasfa": {}
+      }
+    }
+  }
+}
